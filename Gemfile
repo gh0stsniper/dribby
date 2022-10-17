@@ -70,3 +70,13 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "devise", "~> 4.8"
+gem "carrierwave", "~> 2.2"
+
+gem "simple_form", "~> 5.1"
+gem "mini_magick", "~> 4.11"
+gem "impressionist", "~> 2.0"
+gem "gravatar_image_tag", "~> 1.2"
+gem "acts_as_votable", "~> 0.13.2"
+gem "better_errors", "~> 2.9"
